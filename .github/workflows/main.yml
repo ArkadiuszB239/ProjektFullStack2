@@ -32,4 +32,4 @@ jobs:
           context: ./
           file: ./dockerfile.v1
           push: true
-          tags: arekb112/projekt_fs_2:tag1
+          tags: arekb112/project_fs_2:tag1
