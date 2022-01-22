@@ -6,7 +6,7 @@ on:
 
 jobs:
   build-push-images:
-    name: zad 2.4
+    name: zad 2.4 - c
     runs-on: ubuntu-latest
 
     steps:
